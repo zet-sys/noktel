@@ -18,8 +18,8 @@ class Config:
     # ============================================================
     # 💳 3. PAKASIR API & PEMBAYARAN MANUAL (E-WALLET)
     # ============================================================
-    PAKASIR_KEY = "LTsiO6lNIG128p6T3gq"
-    PROJECT_SLUG = "iqbaauto"
+    PAKASIR_KEY = "3tzYkTtJMpa0tLkO8WU09XJJ5ChgdrsY"
+    PROJECT_SLUG = "zyepay"
     QRIS_MANUAL_URL = "https://files.catbox.moe/2gk8ec.jpg"
     DANA_NUMBER = "0895622742908"
 
